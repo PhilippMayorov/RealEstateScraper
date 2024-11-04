@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain_ollama
+#Powerful webscraping library used to scrape data from the web
+selenium
+beautifulsoup4
+lxml 
+html5lib
+python-dotenv
